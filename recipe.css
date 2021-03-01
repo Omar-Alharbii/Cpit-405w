@@ -1,0 +1,9 @@
+h1 {font-size:18pt;color:#A4A400;text-decoration: underline;}
+h2 {text-align: center;font-family:Helvetica;font-size:18pt;text-decoration: underline;color:#A4A400;font-weight: bold;background-color:#F0F0F0 ;}
+h3{text-align:center;color:grey;font-family:Georgia;font-size:11pt;font-weight:normal;}
+p1{font-family:Georgia ;font-size:11pt;}
+p3{font-family:Georgia ;font-size:11pt;}
+p4{font-family:Garamond ;font-size:14pt;margin: 25px;font-style: italic;}
+a.ab {background-image: url("w3c-html.png");display: inline-block; width: 230px;height:81px;}
+a.ac {background-image: url("w3c-css.png");display: inline-block; width: 230px;height:81px;text-align: center;}
+img {width: 400px;}
